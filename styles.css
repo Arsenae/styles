@@ -1,0 +1,31 @@
+/* Styles */
+
+body {
+	background-color: black;
+	color: white;
+	font-family: avenir;
+}
+
+article {
+	max-width: 40em;
+	margin-left: 200px;
+	margin-right: auto;
+	padding-top: 3em;
+	padding-bottom: 4em;
+}
+
+h1 { color: cyan;
+	font-size: 3em;
+	line-height: 1;
+}
+
+h2 { color: cyan;
+	font-weight: bold;
+	text-transform: lowercase;
+	letter-spacing: -0.025em;
+}
+
+p { color: aquamarine;
+	margin: 0 0 1em 0;
+	font-family: avenir;
+}
